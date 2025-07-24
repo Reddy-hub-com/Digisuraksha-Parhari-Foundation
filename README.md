@@ -81,8 +81,6 @@ Category	Key Skills Developed
 📊 Log Forensics	Graylog search queries, attack timeline reconstruction
 
 📁 Repository Layout
-Copy
-Edit
 Cybersecurity_Internship/
 ├── Week_1_MITRE_TTP/
 ├── Week_2_Malware_APT28/
