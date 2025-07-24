@@ -1,7 +1,7 @@
-Digisuraksha Cybersecurity Internship – 8-Week Hands-On Journey (2025)
+Intern Name:B@lireddy.c/Digisuraksha Parhari Foundation-2025-Cybersecurity Internship – 8-Week Hands-On Journey (2025)
 Welcome to my GitHub repository showcasing the 8-week practical cybersecurity internship experience. This program emphasized real-world cybersecurity challenges with a focus on offensive security, threat detection, and incident response. Each week involved targeted exercises based on frameworks like MITRE ATT&CK, OWASP, and MISP, helping bridge academic knowledge with industry standards.
 
-📆 Weekly Progress Overview
+📆 Weekly Progress Overview*
 🔹 Week 1: MITRE TTP Mapping & Threat Classification
 Mapped APT group behavior using the MITRE ATT&CK framework
 
